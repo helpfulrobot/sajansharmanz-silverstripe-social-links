@@ -1,0 +1,33 @@
+{
+	"name": "sajansharmanz/silverstripe-social-links",
+	"description": "Adds social media icons to your website",
+	"homepage": "http://github.com/sajansharmanz/silverstripe-social-links",
+	"keywords": [
+		"silverstripe", 
+		"font-awesome", 
+		"social media",
+		"facebook",
+		"twitter",
+		"instagram",
+		"linkedin",
+		"google plus",
+		"youtube"
+	],
+	"authors": [
+		{
+			"name": "Sajan Sharma",
+			"email": "sajansharmanz@gmail.com"
+		}
+	],
+	"license": "BSD-3-Clause",
+	"support": {
+		"issues": "http://github.com/sajansharmanz/silverstripe-social-links"
+	},
+	"require": {
+		"silverstripe/framework": ">=3.1",
+		"silverstripe/cms": ">=3.1" 
+	},
+	"extra": {
+		"installer-name": "social-links"
+	}
+}

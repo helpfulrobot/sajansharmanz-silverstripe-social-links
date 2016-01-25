@@ -1,0 +1,6 @@
+---
+name: Social Links
+---
+SiteConfig:
+  extensions:
+    - SocialLinksExtension
